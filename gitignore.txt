@@ -1,8 +1,0 @@
-.env
-.venv
-downloaded_threads/
-markdown_files/
-preprocess.py
-promptfoo.yaml
-project-tds-virtual-ta-q1.png
-package.json
